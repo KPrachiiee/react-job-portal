@@ -39,9 +39,4 @@ A comprehensive **Job Portal Application** built using the **MERN** (MongoDB, Ex
 ### 🔹 Image Upload
 - Cloudinary (for storing and managing uploaded images)
 
-### 🔹 Deployment
-- Vercel (Frontend)  
-- Render (Backend)  
-- MongoDB Atlas (Database)
-
 ---
